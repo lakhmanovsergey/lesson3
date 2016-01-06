@@ -1,0 +1,12 @@
+com.levelup.lesson3.AllCases
+publicInt = 5
+protectedInt = 12
+aByte = 8
+aShort = 111
+aInt = 5678
+aLong = 9876543210
+aFloat = 56789.1
+aDouble = 5678.12345
+aChar = b
+aBoolean = false
+privateInt = 5
